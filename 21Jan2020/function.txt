@@ -1,0 +1,15 @@
+1.Definition :- A function is a block of Code containing a logic inside. 
+
+2.Syntax of Function :-
+
+->return_type  function_name ( arguments ){
+
+    //logic inside
+
+    return(keyword) value;   
+}
+
+
+3.Types of Function :- 
+ 
+->
